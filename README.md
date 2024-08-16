@@ -2,7 +2,7 @@
 
 [Video](https://youtu.be/U9VQChv1vuM)
 
-![Watch the video](https://youtu.be/U9VQChv1vuM)
+[![Watch the video](https://github.com/Dinesh949/Dynamic-Dashboard/blob/main/Dynamic%20Dashboard.mp4)]
 
 The dataset pertains to an imaginary chocolate enterprise named "Awesome Chocolate," encompassing 4000 data entries. The objective is to showcase a business overview, inclusive of aggregate sales, profits, and box count. Additionally, the top 5 products are highlighted, along with graphical representation for monthly sales, box count, and profits.
 
